@@ -1,10 +1,13 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge — Solutions
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+Submissions for Problems 1, 2, and 3 of the
+[99tech code challenge](https://github.com/99techteam/code-challenge)
+(Frontend track).
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+| Problem | Folder | Notes |
+|---------|--------|-------|
+| 1 — Three ways to sum to `n` | [`src/problem1/`](./src/problem1/) | Three implementations in `sum_to_n.js` (loop / Gauss / reduce). |
+| 2 — Fancy Form (currency swap) | [`src/problem2/`](./src/problem2/) | Vite + React + TypeScript. `npm install && npm run dev`. |
+| 3 — Messy React | [`src/problem3/`](./src/problem3/) | `original.tsx` (issues annotated inline), `refactored.tsx` (clean version). |
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+Problems 4 and 5 are backend-track, not part of this submission.
